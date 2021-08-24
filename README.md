@@ -4,4 +4,7 @@ Branchta degisilik yapildi
 
 deneme degistirildi linux
 
-Asjkbdjkasbdjkasbjkbsadjfbjsabfdjk
+ssh eklend
+checkout i
+idkmdkmfkdem
+Asjkbdjkasbdjkasbjkbsadjfbjsabfdjeek
