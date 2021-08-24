@@ -2,4 +2,6 @@
 
 Branchta degisilik yapildi
 
+deneme degistirildi linux
+
 Asjkbdjkasbdjkasbjkbsadjfbjsabfdjk
